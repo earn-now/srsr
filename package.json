@@ -1,0 +1,27 @@
+{
+  "name": "ygxz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earn-now/ygxz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earn-now/ygxz/issues"
+  },
+  "homepage": "https://github.com/earn-now/ygxz#readme",
+  "dependencies": {
+    "micro": "^9.3.3",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
